@@ -1,0 +1,7 @@
+-- This module is the root of the InvariantSubspaceProblemCanonicalLaneLean Lean proof package.
+import InvariantSubspaceProblemCanonicalLaneLean.Basic
+import InvariantSubspaceProblemCanonicalLaneLean.SourcePackage
+import InvariantSubspaceProblemCanonicalLaneLean.SourceDependencies
+import InvariantSubspaceProblemCanonicalLaneLean.Formalization
+import InvariantSubspaceProblemCanonicalLaneLean.ReviewerBridge
+import InvariantSubspaceProblemCanonicalLaneLean.TheoremStatement
